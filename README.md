@@ -9,7 +9,7 @@
 
   <!-- Sehemu ya Typing SVG yenye width na height iliyoongezwa kiasi cha kutosha -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=100&lines=HELLO+WORLD%F0%9F%8C%8D;THIS+IS+POWERFULL+AI%F0%9F%94%A5;WITH+NO+ERRORS%21;SO+DEPLOY+NOW%F0%9F%9A%80;BY+USING+PANEL%E2%9A%A1;HABARI+DUNIA%F0%9F%8C%8D;HII+NI+AI%21;YENYE+NGUVU%F0%9F%94%A5;KWAHIYO%21;DEPLOY+SASA%F0%9F%9A%80;KWA+KUTUMIA+PANEL%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=100&lines=HELLO+WORLD%F0%9F%8C%8D;IT'S+POWERFULL+AI%F0%9F%94%A5;WITH+NO+ERRORS%21;SO+DEPLOY+NOW%F0%9F%9A%80;BY+USING+PANEL%E2%9A%A1;HABARI+DUNIA%F0%9F%8C%8D;HII+NI+AI%21;YENYE+NGUVU%F0%9F%94%A5;KWAHIYO%21;DEPLOY+SASA%F0%9F%9A%80;KWA+KUTUMIA+PANEL%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <!-- Mstari wa chini unaowaka na kufifia -->
