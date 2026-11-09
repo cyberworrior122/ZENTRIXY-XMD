@@ -1,0 +1,25 @@
+{
+  "bot-name": "ZENTRIXY XMD",
+  "description": "ZENTRIXY XMD made for people on Earth",
+  "logo": "assets/bot_image.jpg",
+  "keywords": ["bot", "whatsapp-bot", "zentrixy"],
+  "documentation-link": "https://github.com/cyberworrior122/ZENTRIXY-XMD",
+  "owner-verification": "cyberworrior@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put session id",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc",
+      "value": ".",
+      "required": true
+    },
+    "PREMIUM_USERS": {
+      "description": "premium users",
+      "value": "255694187430",
+      "required": false
+    }
+  }
+}
