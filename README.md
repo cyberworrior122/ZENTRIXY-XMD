@@ -13,6 +13,7 @@
   </a>
 
   <!-- Mstari wa chini unaowaka na kufifia -->
+  <div>
   <hr style="border: none; height: 3px; background: #00FF00; width: 95%; box-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00; animation: glow 2s infinite alternate;" />
 </div>
 
